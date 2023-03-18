@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Pictobot: A Cooperative Painting Robot for Interior Finishing of Industrial Developments"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Pictobot: A Cooperative Painting Robot for Interior Finishing of Industrial Developments.'
+date: 2018
+venue: 'IEEE Robotics & Automation Magazine'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: Asadi, E., Li, B., & Chen, I. (2018). Pictobot, A Cooperative Painting Robot for Interior Finishing of Industrial Developments. IEEE Robotics & Automation Magazine, 25, 82-94.
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Pictobot: A cooperative painting robot for interior finishing of industrial developments
+E Asadi, B Li, IM Chen
+IEEE Robotics & Automation Magazine 25 (2), 82-94	71	2018
