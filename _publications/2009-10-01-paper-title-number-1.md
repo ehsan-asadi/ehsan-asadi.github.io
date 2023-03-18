@@ -12,3 +12,17 @@ citation: Asadi, E., Li, B., & Chen, I. (2018). Pictobot, A Cooperative Painting
 Pictobot: A cooperative painting robot for interior finishing of industrial developments
 E Asadi, B Li, IM Chen
 IEEE Robotics & Automation Magazine 25 (2), 82-94	71	2018
+
+The YouTube URL of the video is https://www.youtube.com/watch?v=JLMbpiywVxQ. 
+
+Here is how to embed a clickable preview:
+
+```markdown
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+```
+
+Which shows as:
+
+[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
