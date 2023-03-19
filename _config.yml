@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ehsan Asadi / Site Title"
+title                    : "Ehsan Asadi"
 title_separator          : "-"
 name                     : &name "Ehsan Asadi"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ehsan Asadi"
-  avatar           : "ehsan-asadi.github.io/images/EhsanAsadi33333.jpg"
+  avatar           : "http://ehsan-asadi.github.io/images/EhsanAsadi33333.jpg"
   bio              : "Academic @ RMIT University"
   location         : "Melbourne, Australia"
   employer         :
