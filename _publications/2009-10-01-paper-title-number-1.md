@@ -13,6 +13,8 @@ Pictobot: A cooperative painting robot for interior finishing of industrial deve
 E Asadi, B Li, IM Chen
 IEEE Robotics & Automation Magazine 25 (2), 82-94	71	2018
 
-https://youtube.com/watch?v=Dam61WpeSmo&feature=shares .
+https://youtube.com/watch?v=Dam61WpeSmo&feature=shares . 
 
-[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/Dam61WpeSmo/maxresdefault.jpg)](https://youtube.com/watch?v=Dam61WpeSmo&feature=shares)
+[![Final video of fixing issues in your code in VS Code](![alt-text-1](ehsan-asadi.github.io/images/Pictobot.png "title-1") ![alt-text-2](ehsan-asadi.github.io/images/Pictobot2.png "title-2"))](https://youtube.com/watch?v=Dam61WpeSmo&feature=shares)
+
+https://img.youtube.com/vi/Dam61WpeSmo/maxresdefault.jpg
