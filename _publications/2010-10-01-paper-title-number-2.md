@@ -12,7 +12,7 @@ robot with enhanced trajectory tracking for climbing in tight spaces. Mech. Mach
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/Mechanism and Machine Theory 177 (2022).pdf)
+[Download paper here](http://ehsan-asadi.github.io/files/Mechanism and Machine Theory 177 (2022).pdf)
 
 
 
