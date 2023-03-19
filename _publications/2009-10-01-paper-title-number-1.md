@@ -2,7 +2,7 @@
 title: "Pictobot: A Cooperative Painting Robot for Interior Finishing of Industrial Developments"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Pictobot: A Cooperative Painting Robot for Interior Finishing of Industrial Developments.'
+excerpt: '[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/Dam61WpeSmo/maxresdefault.jpg)](https://youtube.com/watch?v=Dam61WpeSmo&feature=shares)'
 date: 2018-01-01
 venue: 'IEEE Robotics & Automation Magazine'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
